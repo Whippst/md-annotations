@@ -12,5 +12,8 @@
     "html"
   ],
   "author": "Stephen Whipp",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
