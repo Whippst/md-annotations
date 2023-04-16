@@ -1,0 +1,16 @@
+{
+  "name": "md-annotations",
+  "version": "1.0.0",
+  "description": "mark-down rendering extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "md",
+    "annotations",
+    "html"
+  ],
+  "author": "Stephen Whipp",
+  "license": "ISC"
+}
